@@ -126,7 +126,7 @@ body {
     color:var(--second-title-color);
 }
 
-.details-after-title {
+.details-text {
     font-weight: normal;
     font-size: 14px;
     line-height: 1.71;
@@ -166,7 +166,7 @@ body {
     color: var(--second-title-color);
 }
 
-.team-after-title {
+.team-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
